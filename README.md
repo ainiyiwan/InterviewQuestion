@@ -5,3 +5,6 @@
 ## 优秀源码解析（包含上面的问题）
 [ANDROID SDK 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
 
+## 侧滑返回使用及原理分析
+[侧滑返回使用及原理分析](https://juejin.im/post/595123565188250d781cd7c1)
+
